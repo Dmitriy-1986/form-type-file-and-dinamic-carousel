@@ -1,2 +1,2 @@
 # form-type-file-and-dinamic-carousel
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlIjfh0COpx70x9-95rNf6Wb5QX89Sqy-WRux5-umHOdrQFWobc9Sk_O7oq5hbRl8h7rLAql7TwQz63mTQWW5qIS6luGq702KcQgDVaZk3eWrF47bXHLgSEvuqTQjEv27UkBnVn36anp7jr0-ma5nzMShMf32uZqjd7oZ7VefcI30JVzlpfYHcLZKsuSU0/s1201/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2024-07-14_17-10-57.jpg">
+<img src="https://github.com/Dmitriy-1986/form-type-file-and-dinamic-carousel/images/slider.jpg">
